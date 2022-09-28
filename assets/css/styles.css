@@ -14,9 +14,7 @@ body {
 }
 
 .hero-image {
-  height:60%;
-  width: 100%;
-  background-image: url(hero-image.png);
+  object-fit: contain;
   background-repeat: no-repeat;
   background-size: cover;
   
